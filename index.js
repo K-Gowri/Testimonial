@@ -1,3 +1,4 @@
+/*js */
 const swiper = new Swiper('.js-testimonials-slider', {
     grabCursor: true,
     spaceBetween:30,
