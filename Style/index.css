@@ -46,5 +46,22 @@ body{
  vertical-align: middle;
 }
 .testimonials-item .name{
-    
+    font-size: 24px;
+    text-transform: capitalize;
+    font-weight: 600;
+    color:hsl(0,0%,0%);
+    line-height: 1.2;
+}
+
+.testimonials-item .job{
+    text-transform: capitalize;
+    color: hsl(0,0%,40%);
+}
+.testimonials-item p{
+    margin-top: 20px;
+    color: hsl(0,0%,40%);
+}
+.testimonials-item .rating{
+    margin-top: 15px;
+    font-size: 14px;
 }
