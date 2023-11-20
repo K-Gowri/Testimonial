@@ -65,3 +65,8 @@ body{
     margin-top: 15px;
     font-size: 14px;
 }
+.testimonials .swiper-pagination{
+    position: relative;
+    margin-top: 40px;
+    bottom: auto;
+}
