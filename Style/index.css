@@ -70,3 +70,8 @@ body{
     margin-top: 40px;
     bottom: auto;
 }
+.testimonials .swiper-pagination-bullet{
+    height:12px;
+    width:12px;
+    background-color: hsl(0,0%,100%);
+}
