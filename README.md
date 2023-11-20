@@ -10,11 +10,11 @@ HTML and CSS Mastery: Leveraging my in-depth knowledge of HTML and CSS, I meticu
 
 <h4>Performance Optimization:</h4> Recognizing the importance of performance, I optimized the webpage to ensure swift loading times and smooth transitions. This attention to detail contributes to a positive user experience and aligns with best practices in frontend development.
 
-<h2>Outcome:</h2>
+<h2>📌Outcome:</h2>
 
 The testimonial webpage has received positive feedback for its intuitive design and seamless navigation. Users can effortlessly explore and engage with testimonials, fostering a sense of trust and credibility. This project showcases my commitment to delivering high-quality frontend solutions that not only meet but exceed user expectations.
 
-<h5>Next Steps: </h5>
+<h1>👉Next Steps: </h1>
 
 I am enthusiastic about applying my frontend development expertise to future projects, incorporating innovative technologies and design principles to create compelling digital experiences.
 
