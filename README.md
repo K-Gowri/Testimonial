@@ -1,6 +1,7 @@
 # Testimonial
 As a seasoned frontend developer, I recently spearheaded the creation of a dynamic and visually engaging testimonial webpage, showcasing my proficiency in HTML, CSS, and Swiper.js.
 ![Alt text](image.png)
+![Alt text](image-1.png)
 <h2>Key Contributions : </h2>
 HTML and CSS Mastery: Leveraging my in-depth knowledge of HTML and CSS, I meticulously crafted a well-structured and responsive webpage. The design not only adheres to the latest industry standards but also ensures an optimal user experience across various devices.
 
